@@ -1,1 +1,1 @@
-# EDA-Manjeet_Kalla
+# Data Science/Manjeet_Kalla
